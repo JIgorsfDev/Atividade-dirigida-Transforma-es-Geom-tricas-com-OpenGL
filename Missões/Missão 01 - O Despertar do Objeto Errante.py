@@ -36,6 +36,7 @@ def esquerda():
 
 def direita():
   gl.glTranslatef(0.1, 0.0, 0.0)
+  glut.glutPostRedisplay()
 
 def draw():
   gl.glClearColor(0.0, 0.0, 0.0, 1.0)
