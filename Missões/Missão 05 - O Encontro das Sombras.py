@@ -45,7 +45,7 @@ def cam():
 
   gl.glMatrixMode(gl.GL_MODELVIEW)
 
-def figure(): #Simbolo antigo, da ordem do caos
+def figure(): #Simbolo antigo, da ordem do caos -> Corrijir erro: Figura não está refletindo
   gl.glBegin(gl.GL_TRIANGLES)
   gl.glColor3f(1.0, 0.0, 0.0)
 
