@@ -4,7 +4,7 @@
 #• Modele manualmente um objeto 3D (ex: pirâmide, prisma, robô minimalista, estrutura composta de cubos ou polígonos)
 #• Aplique duas transformações geométricas (positivas e negativas) para cada eixo (X, Y e Z), por exemplo:
 #• Translação no eixo X com 't' / 'T'
-#• Rotação no eixo Y com 'y' / 'Y'
+#• Rotação no eixo Y com 'r' / 'R'
 #• Escala no eixo Z com 'e' / 'E'
 #• As transformações devem ser realizadas combinando funções como glTranslatef, glRotatef, glScalef.
 
