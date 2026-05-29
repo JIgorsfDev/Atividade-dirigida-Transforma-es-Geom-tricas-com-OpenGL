@@ -12,8 +12,8 @@ Translações, rotações, reflexões, escalas e deformações oferecem habilida
 
 Cabe ao Guardião resistir à tentação do poder fácil e compreender verdadeiramente o funcionamento dessas forças.
 Ao longo desta jornada, foi necessário aprender a mover objetos pelo espaço, alterar suas orientações, modificar suas proporções, refletir estruturas inteiras e até mesmo deformar a realidade através do cisalhamento.
-Aqui, o espaço não se dobra sozinho.
 
+Aqui, o espaço não se dobra sozinho.
 Você o dobra.
 O tempo não move os objetos.
 Você os move.
