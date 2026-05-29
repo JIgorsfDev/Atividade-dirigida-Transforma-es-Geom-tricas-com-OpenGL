@@ -22,8 +22,6 @@ Bem-vindo à fase final da formação dos Guardiões da Computação Gráfica.
 Domine as transformações... ou seja dominado por elas.
 
 ### 🤓☝️ Tecnologias utilizadas
-
-### 🤓☝️ Tecnologias utilizadas
 - **Linguagem:** Python
 - **IDE:** Replit
 - **Bibliotecas:** PyOpenGL (`GL`, `GLUT` e `GLU`)
